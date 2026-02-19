@@ -20,4 +20,4 @@
 *  **Custom String Library** — A from-scratch recreation of the C `cstring` library to deepen my understanding of pointer arithmetic and memory management.
 
 ---
-📫 **Let's Connect:** [https://www.linkedin.com/in/denis-ignat-3357b838a/] | [ignat.denispetronel@gmail.com]
+📫 **Let's Connect:** [www.linkedin.com/in/ignatdenispetronel] | [ignat.denispetronel@gmail.com]
